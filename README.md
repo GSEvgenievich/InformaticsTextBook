@@ -77,8 +77,8 @@ cd LW4_InformaticsTextBook
 
 ## 📬 Контакты
 
-- **Telegram:** [@твой_никнейм]
-- **Email:** твоя_почта@example.com
+- **Telegram:** [@Siezap](https://t.me/SIezap)
+- **Email:** Stepan.geras2006@yandex.ru
 - **GitHub:** [github.com/GSEvgenievich](https://github.com/GSEvgenievich)
 
 ## 📄 Лицензия
